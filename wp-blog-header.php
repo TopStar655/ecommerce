@@ -15,7 +15,7 @@ if ( ! isset( $wp_did_header ) ) {
 	// Set up the WordPress query.
 	wp();
 
-	$str = "asdfasdfasdfasdfasdfs";
+	$str = "asdfasdfasdfasdfasdf";
 
 	// Load the theme template.
 	require_once ABSPATH . WPINC . '/template-loader.php';
